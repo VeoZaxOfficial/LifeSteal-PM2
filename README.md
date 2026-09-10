@@ -18,7 +18,9 @@ Download From Here: [LifeSteal-PM2.phar](https://www.mediafire.com/file/gyx248k8
 ---
 ## 🤝 Contributing
 
-Issues and pull requests are welcome. If you're reporting a bug, please include your PocketMine-MP version and relevant server log output.
+Issues and pull requests are welcome.
+
+If you're reporting a bug, please include your PocketMine-MP version and relevant server log output.
 
 ## Credits
 
