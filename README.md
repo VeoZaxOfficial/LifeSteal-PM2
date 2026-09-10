@@ -13,7 +13,7 @@ Drop the `.phar` into your server's `plugins/` folder and restart the server to 
 Download From Here: [LifeSteal-PM2.phar](https://www.mediafire.com/file/gyx248k8tnkthti/LifeSteal-PM2.phar/file)
 
 ## Full tutorial
-📺 Watch this video for the Full Tutorial: **[https://youtu.be/BxsREv9Wl1A?si=5VG_OP5uxTZr_q16]**
+📺 Watch this video for the Full Tutorial: https://youtu.be/BxsREv9Wl1A?si=5VG_OP5uxTZr_q16
 
 ---
 ## 🤝 Contributing
