@@ -9,7 +9,7 @@ A LifeSteal plugin from VeoZaxSMP upgraded to Lv2.0 by VeoZax for PocketMine-MP 
 
 ## Install
 Drop the `.phar` into your server's `plugins/` folder and restart the server to activate the plugin.
-Download From Here: https://www.mediafire.com/file/gyx248k8tnkthti/LifeSteal-PM2.phar/file
+Download From Here: [LifeSteal-PM2.phar](https://www.mediafire.com/file/gyx248k8tnkthti/LifeSteal-PM2.phar/file)
 
 ## Full tutorial
 📺 Watch this video for the Full Tutorial: **[https://youtu.be/BxsREv9Wl1A?si=5VG_OP5uxTZr_q16]**
