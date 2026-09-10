@@ -1,0 +1,35 @@
+name: LifeSteal
+version: 2.2.0
+api: ["VeoZaxAPI"]
+main: LifeSteal\Main
+author: VeoZax
+description: LifeSteal plugin from VeoZax SMP upgraded to Lv2.0 by VeoZax at 08/09/2026 - 09/09/2026 (yeah took me 1 whole day for it -_-)
+
+commands:
+  lifesteal:
+    description: Manage LifeSteal worlds, owners, and the leaderboard configurations of this plugin. more like a management maybe?
+    usage: "/lifesteal <set|remove|worlds|lbspawn|addowner|removeowner|owners>"
+    permission: lifesteal.worlds
+
+  share-heart:
+    description: Share hearts with another player. more like donation
+    usage: "/share-heart <player> <amount>"
+    permission: lifesteal.share
+
+  safezone:
+    description: Manage the LifeSteal safe zone
+    usage: "/safezone <pos1|pos2|save|remove|info>"
+    permission: safezone.use
+
+permissions:
+  lifesteal.worlds:
+    default: true
+  lifesteal.manage:
+    default: op
+  lifesteal.share:
+    default: true
+  safezone.use:
+    default: op
+  safezone.bypass:
+    description: Bypass from LifeSteal operations
+    default: op

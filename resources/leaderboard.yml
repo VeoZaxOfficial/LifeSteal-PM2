@@ -1,0 +1,4 @@
+---
+hearts_led: "§8  -§c Top Hearts §8-   \n§l§a-----------       §r\n{top_list}§r"
+hearts_led2: "§8│ §b#{counts} §f{name} §8» §c{hearts}"
+...
